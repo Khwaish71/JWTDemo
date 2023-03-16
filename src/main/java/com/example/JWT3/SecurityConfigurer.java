@@ -40,5 +40,6 @@ private  JwtFilter jwtFilter;
     public AuthenticationManager authenticationManagerBean() throws  Exception{
     return  super.authenticationManagerBean();
     }
+    //System.out.println("JEJEE");
 
 }
